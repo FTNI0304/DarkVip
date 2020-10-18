@@ -71,6 +71,7 @@ except smtplib.SMTPAuthenticationError:
 c()
 waktu ('\x1b[1;93mMOHON TUNGGU')
 waktu ('\x1b[1;93mSEDANG LOGIN')
+waktu ('\x1b[1;93mACCES GAGAL AKUN PERTEMANAN FACEBOOK HARUS - 200')
 time.sleep(2)
 c()
 t()
